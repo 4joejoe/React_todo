@@ -1,2 +1,4 @@
-# React_todo
-Created with CodeSandbox
+# React_Todo
+
+React todo app
+React projects
