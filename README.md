@@ -1,4 +1,4 @@
 # React_Todo
 
-##React todo app
-###React projects
+React todo app
+React projects
